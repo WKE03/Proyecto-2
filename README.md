@@ -9,7 +9,7 @@
 1. Comentar lo agregado en el html y agregarlo mediante javascript con `document.write()`
 
 ---
-### Como entregar los trabajos (1º UNA VEZ)
+## Como entregar los trabajos (1º UNA VEZ)
 
 1. crear cuenta de  github
 1. crear un token de github(una vez)
@@ -32,7 +32,7 @@
 
 --------
 
-### Como actualizar el repo local y online
+## Como actualizar el repo local y online
 
 - Como actualizar el repo local:
     1. git add .
