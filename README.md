@@ -5,7 +5,7 @@
     1. Instalar el paquete `lite-server` con `npm` usando el comando `npm i -D lite-server`
     1. Configurar el script `start` para que ejecute el paquete `lite-server`
     1. Iniciar el script `start` para activar el servidor
-1. Agregar recursos a la pagina con `iframe`
+1. Agregar recursos a la pagina con [iframe](https://developer.mozilla.org/es/docs/Web/HTML/Element/iframe)
 1. Comentar lo agregado en el html y agregarlo mediante javascript con `document.write()`
 
 ---
